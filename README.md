@@ -1,2 +1,8 @@
 # Agentic-AI-Projects
-#Project 1: Autonomous Disruption & Rebooking Agent (The Pilot Contract)Target Clients: PIA, SereneAir, Airblue, Fly Jinnah.Business Problem: Flight delays caused by weather (e.g., fog at Lahore ISB/LHE) lead to thousands of callers crashing call centers. Each unresolved ticket incurs manual processing costs and customer churn.Contract Value: PKR 1.5M - 3M (Initial MVP) $\rightarrow$ PKR 15M+/year recurring SaaS fee once deployed.
+Project 1: Autonomous Disruption & Rebooking Agent (The Pilot Contract)
+
+Target Clients: PIA, SereneAir, Airblue, Fly Jinnah.
+
+Business Problem: Flight delays caused by weather (e.g., fog at Lahore ISB/LHE) lead to thousands of callers crashing call centers. Each unresolved ticket incurs manual processing costs and customer churn.
+
+Contract Value: PKR 1.5M - 3M (Initial MVP) $\rightarrow$ PKR 15M+/year recurring SaaS fee once deployed.
